@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\mmmmm\mmmmm\obj\Debug\net8.0\mmmmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\mmmmm\mmmmm\obj\Debug\net8.0\mmmmm.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\mmmmm\mmmmm\obj\Debug\net8.0\mmmmm.AssemblyInfo.cs
+C:\Users\Asus\source\repos\mmmmm\mmmmm\obj\Debug\net8.0\mmmmm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\mmmmm\mmmmm\bin\Debug\net8.0\mmmmm.exe
+C:\Users\Asus\source\repos\mmmmm\mmmmm\bin\Debug\net8.0\mmmmm.deps.json
+C:\Users\Asus\source\repos\mmmmm\mmmmm\bin\Debug\net8.0\mmmmm.runtimeconfig.json
+C:\Users\Asus\source\repos\mmmmm\mmmmm\bin\Debug\net8.0\mmmmm.dll
+C:\Users\Asus\source\repos\mmmmm\mmmmm\bin\Debug\net8.0\mmmmm.pdb
+C:\Users\Asus\source\repos\mmmmm\mmmmm\obj\Debug\net8.0\mmmmm.dll
+C:\Users\Asus\source\repos\mmmmm\mmmmm\obj\Debug\net8.0\refint\mmmmm.dll
+C:\Users\Asus\source\repos\mmmmm\mmmmm\obj\Debug\net8.0\mmmmm.pdb
+C:\Users\Asus\source\repos\mmmmm\mmmmm\obj\Debug\net8.0\mmmmm.genruntimeconfig.cache
+C:\Users\Asus\source\repos\mmmmm\mmmmm\obj\Debug\net8.0\ref\mmmmm.dll
